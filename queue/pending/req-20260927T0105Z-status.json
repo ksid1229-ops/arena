@@ -1,0 +1,7 @@
+{
+  "id": "req-20260927T0105Z-status",
+  "operation": "inspect_services",
+  "target": "game",
+  "reason": "Read-only connection test; do not modify the place.",
+  "created_at": "2026-09-27T01:05:00Z"
+}
